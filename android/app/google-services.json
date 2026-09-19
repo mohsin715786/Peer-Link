@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772164520868",
+    "project_id": "peer-link-b0e3a",
+    "storage_bucket": "peer-link-b0e3a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772164520868:android:b2aae92a3a0fd686270f31",
+        "android_client_info": {
+          "package_name": "com.example.peerlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIs-Ws7JhK_7UezbZ5cLQySQ9QL5_Qx2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
